@@ -7,3 +7,7 @@ then use these commands
 go mod init example/struct
 go mod tidy
 go run .
+
+......................................
+only in main.go 
+just : go run <filename>
